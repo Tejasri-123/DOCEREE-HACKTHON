@@ -10,4 +10,4 @@ To solve this problem, various steps need to be performed, including data cleani
 
 we proposed solution for the given problem statement involves using the Random Forest algorithm to solve the problem. Random Forest is a versatile and effective machine learning algorithm that is well-suited for classification tasks, making it an appropriate choice for predicting healthcare specialization.
 
-I got 98% accuracy for this HCP_Predictions and 91% accuracy for the Taxonomy_Predictions
+we got 98% accuracy for this HCP_Predictions and 91% accuracy for the Taxonomy_Predictions
